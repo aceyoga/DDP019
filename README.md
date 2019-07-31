@@ -1,2 +1,3 @@
 # DDP019
-Repo kerjaan DDP0
+Folder Enjoy the show! berisi soal
+Folder kunjaw, ya isinya kunci jawaban WKWKWK
