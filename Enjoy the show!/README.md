@@ -13,3 +13,4 @@ Dan setelah program selesai membuat password, dia ingin bisa melakukannya lagi(P
 
 #### Bintang 4 kalo 100% sesuai permintaan soal, bintang 2 kalo cuma bikin satu password dan dikeluarin di terminal.
 
+### Untuk soal ini, diasumsikan input minta bikin satu password bakal cuma minta satu input angka, dan input minta bikin banyak password akan meminta panjang minimal dan maksimal dari password itu dalam 2 input berbeda. Soal ini sendiri memiliki 2 solusi yang cukup berbeda, jadi gpp kalo ngga terlalu mirip dengan kunci jawaban yang akan dirilis minggu depan.
