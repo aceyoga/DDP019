@@ -5,7 +5,7 @@ By: Yoga Mahendra
 
 ### 1. Password Generator
 #### Cerita:
-Seorang maba fasilkom ingin iseng mencoba membuat program yang bisa membuatkannya sebuah password, lalu dia ingin bisa memilih untuk menampilkannya langsung di Terminal, atau menyimpannya kedalam sebuah file dengan format(.txt).
+Seorang maba fasilkom ingin iseng mencoba membuat program yang bisa membuatkannya sebuah password, lalu dia ingin bisa memilih untuk menampilkannya langsung di Terminal, atau menyimpannya kedalam sebuah file dengan format(.txt). Dengan catatan, passwordnya *minimal* 4 digit dan *maksimum* 20 digit. Default satu password: 10 digit, default banyak password: 8-12 digit.
 
 Program ini juga bisa membuat satu passwordnya atau lebih(programnya bikin berapa password dan panjangnya berapa itu tergantung si penggunanya).
 
