@@ -1,0 +1,10 @@
+Nasi Goreng,10000,Enak
+Nasi Soto,8000,Enak
+Pecel Lele,5000,Enak
+Mi Goreng,6000,Enak
+Mi Kuah,6000,Enak
+Aqua,500,Enak
+Es Teh Manis,3000,Enak
+Es Teh Hangat,3000,Enak
+Susu Kotak,5000,Enak
+Kopi,5000,Enak
