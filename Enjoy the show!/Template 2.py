@@ -1,4 +1,6 @@
 # Template soal nomor 2.
+import os
+
 daftar_menu = []
 review = ["Eneg","Biasa","Enak"]
 kas = 1000000000
@@ -20,15 +22,15 @@ while True:
    # Spesifikasi 2
    # Program akan meminta input makanan/minuman yang dipesan. Sebelum meminta input, program menampilkan daftar menunya dulu.
    for consumables in daftar_menu:
-      print(consumables[0],". Nama:",consumables[1],"Harga:",consumables[2])
+      print(consumables[0],". Nama:",consumables[1],", Harga:",consumables[2])
+   # Input pesanan disini. Ingat bahwa konsumen bisa memesan lebih dari 1 makanan/minuman. Hint: while True bisa disetop
    while True:
       input_pesanan = input("Masukkan pesanan anda: ")
       list_pesanan.append(input_pesanan)
-   # Input pesanan disini. Ingat bahwa konsumen bisa memesan lebih dari 1 makanan/minuman. Hint: while True
    
    # Setelah meminta input, program mencetak total harga pesanan, lalu meminta input uang pembayaran oleh pelanggan.
    # Hint: Spesifikasi 4 ini memiliki kondisional tergantung bintang yang ingin kalian dapatkan.
-   # Hint 2: Uang yang masuk itu dimasukin kedalam kas, dan kembalian ambilnya dari kas juga :D
+   # Hint 2: Uang yang masuk itu dimasukin kedalam kas dulu, dan kembalian ambilnya dari kas juga :D
    
    # Setelah ngeluarin kembalian, program minta review disini.
    # Hint: Reviewnya tinggal ganti dengan pilihan review dari konsumen.
@@ -37,3 +39,5 @@ while True:
       print(i+1,review[-i-1])
    print("Silakan pilih review untuk makanan anda.")
    
+   # Setelah ngasih review, uang kembalian(jika ada) dikembalikan disini, dan program memprint terimakasih sesuai contoh di soal.
+   os.system('cls') # Terminal akan dibersihkan dengan ini. Untuk mac OS, cls ganti clear.
